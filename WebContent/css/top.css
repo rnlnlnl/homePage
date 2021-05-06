@@ -1,0 +1,33 @@
+@CHARSET "EUC-KR";
+
+#header {
+	position: relative;
+	text-align: center;
+	width: 100%;
+}
+#header ul {
+	text-align: center;
+	position: absolute;
+	width: 100%;
+	right: 0px;
+}
+#login {
+	margin-top : 20px;
+	text-align: center;
+}
+#getchange {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-align: center;
+	
+}
+#header ul li {
+	margin: 5px;
+	display: inline ;  			<!-- 점 사라지기-->
+	
+}
+#navigation{
+	text-align: center;
+}
+
+

@@ -1,0 +1,133 @@
+@CHARSET "EUC-KR";
+#footer {
+	padding: 10px 0 25px;
+	clear: both;
+}
+#footer div {
+	overflow: visible;
+	width: 100%;
+}
+#footer div p {
+	float: none;
+	margin: 0;
+	text-align: center;
+}
+#footer div ul {
+	float: none;
+	margin: 0 auto;
+	width: 256px;
+}
+
+
+
+#footer {
+	background: #252525;
+	margin: 0;
+	padding: 36px 0 42px;
+}
+#footer div {
+	margin: 0 auto;
+	overflow: hidden;
+	padding: 0;
+	width: 960px;
+}
+#footer div p {
+	color: #fff;
+	float: left;
+	line-height: 44px;
+	margin: 0 0 0 10px;
+	padding: 0;
+}
+#footer div ul {
+	display: block;
+	float: right;
+	margin: 0;
+	overflow: hidden;
+	padding: 0;
+	width: 256px;
+}
+#footer div ul li {
+	display: block;
+	float: left;
+	list-style: none;
+	margin: 0 10px;
+	padding: 0;
+	width: 44px;
+}
+#footer div ul li a {
+	background: url(../images/icons.jpg) no-repeat 0 0;
+	display: block;
+	height: 44px;
+	margin: 0;
+	padding: 0;
+	text-indent: -99999px;
+	width: 44px;
+}
+#footer div ul li #twitter {
+	background-position: 0 0;
+}
+#footer div ul li #twitter:hover {
+	background-position: -44px 0;
+}
+#footer div ul li #facebook {
+	background-position: 0 -44px;
+}
+#footer div ul li #facebook:hover {
+	background-position: -44px -44px;
+}
+#footer div ul li #googleplus {
+	background-position: 0 -88px;
+}
+#footer div ul li #googleplus:hover {
+	background-position: -44px -88px;
+}
+#footer div ul li #pinterest {
+	background-position: 0 -132px;
+}
+#footer div ul li #pinterest:hover {
+	background-position: -44px -132px;
+}
+ 
+ 
+article{
+	text-align: center;
+}
+h1{
+	text-align: center;
+	margin-top: 60px;
+}
+h2{
+	margin-top: 120px;
+}
+fieldset{
+	width: 500px;
+	text-align: center;
+	
+}
+#buttons{
+	margin-top: 20px;
+	margin-bottom: 350px;
+	text-align: center;
+}
+#cente{
+	text-align: center;
+	 width: 100%;
+ 
+}
+#cente1{
+	display: inline-block;
+}
+form{
+	text-align: center;
+}
+#id{
+	text-align: center;
+}
+#table_search{
+	margin-top: 20px;
+	margin-bottom: 150px;
+	text-align: center;
+}
+
+
+

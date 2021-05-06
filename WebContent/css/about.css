@@ -1,0 +1,52 @@
+@CHARSET "EUC-KR";
+#body{
+	margin-top: 80px;
+	position: relative;
+	text-align: center;
+	font-size: 20px;
+}
+#body ol li a img{
+	width: 300px;
+	height: 180px;
+}
+
+ol{
+	list-style:none;
+} 
+
+#pagenext{
+	margin-top: 80px;
+	text-align: center;
+	font-size: 26px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
